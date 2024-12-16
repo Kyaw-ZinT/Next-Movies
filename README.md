@@ -8,7 +8,7 @@ Features:
 3. Search Functionality: Users can search for specific movies by their titles or keywords.
 4. User-Friendly Interface: Easy navigation for both casual users and movie enthusiasts.
 
-#Technical Specifications:
+# Technical Specifications:
 Frontend: React.js and Next.js for a dynamic and responsive user interface.
 API Integration: Fetching real-time data from movie APIs such as TMDb (The Movie Database) for up-to-date information
 
